@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\haftanin.gunleri\haftanin.gunleri\bin\Debug\haftanin.gunleri.exe.config
+C:\Users\BTC\Desktop\Projeler\haftanin.gunleri\haftanin.gunleri\bin\Debug\haftanin.gunleri.exe
+C:\Users\BTC\Desktop\Projeler\haftanin.gunleri\haftanin.gunleri\bin\Debug\haftanin.gunleri.pdb
+C:\Users\BTC\Desktop\Projeler\haftanin.gunleri\haftanin.gunleri\obj\Debug\haftanin.gunleri.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\haftanin.gunleri\haftanin.gunleri\obj\Debug\haftanin.gunleri.exe
+C:\Users\BTC\Desktop\Projeler\haftanin.gunleri\haftanin.gunleri\obj\Debug\haftanin.gunleri.pdb

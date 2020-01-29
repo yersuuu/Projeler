@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\basamaklarina.ayirma\basamaklarina.ayirma\bin\Debug\basamaklarina.ayirma.exe.config
+C:\Users\BTC\Desktop\Projeler\basamaklarina.ayirma\basamaklarina.ayirma\bin\Debug\basamaklarina.ayirma.exe
+C:\Users\BTC\Desktop\Projeler\basamaklarina.ayirma\basamaklarina.ayirma\bin\Debug\basamaklarina.ayirma.pdb
+C:\Users\BTC\Desktop\Projeler\basamaklarina.ayirma\basamaklarina.ayirma\obj\Debug\basamaklarina.ayirma.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\basamaklarina.ayirma\basamaklarina.ayirma\obj\Debug\basamaklarina.ayirma.exe
+C:\Users\BTC\Desktop\Projeler\basamaklarina.ayirma\basamaklarina.ayirma\obj\Debug\basamaklarina.ayirma.pdb

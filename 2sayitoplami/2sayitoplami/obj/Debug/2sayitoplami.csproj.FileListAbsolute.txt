@@ -1,0 +1,6 @@
+C:\Users\BTC\source\repos\2sayitoplami\2sayitoplami\bin\Debug\2sayitoplami.exe.config
+C:\Users\BTC\source\repos\2sayitoplami\2sayitoplami\bin\Debug\2sayitoplami.exe
+C:\Users\BTC\source\repos\2sayitoplami\2sayitoplami\bin\Debug\2sayitoplami.pdb
+C:\Users\BTC\source\repos\2sayitoplami\2sayitoplami\obj\Debug\2sayitoplami.csprojAssemblyReference.cache
+C:\Users\BTC\source\repos\2sayitoplami\2sayitoplami\obj\Debug\2sayitoplami.exe
+C:\Users\BTC\source\repos\2sayitoplami\2sayitoplami\obj\Debug\2sayitoplami.pdb

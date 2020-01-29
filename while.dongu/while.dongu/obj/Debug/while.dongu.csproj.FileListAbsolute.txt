@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\while.dongu\while.dongu\bin\Debug\@while.dongu.exe.config
+C:\Users\BTC\Desktop\Projeler\while.dongu\while.dongu\bin\Debug\@while.dongu.exe
+C:\Users\BTC\Desktop\Projeler\while.dongu\while.dongu\bin\Debug\@while.dongu.pdb
+C:\Users\BTC\Desktop\Projeler\while.dongu\while.dongu\obj\Debug\while.dongu.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\while.dongu\while.dongu\obj\Debug\@while.dongu.exe
+C:\Users\BTC\Desktop\Projeler\while.dongu\while.dongu\obj\Debug\@while.dongu.pdb

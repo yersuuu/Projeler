@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\cift.sayi.toplami\cift.sayi.toplami\bin\Debug\cift.sayi.toplami.exe.config
+C:\Users\BTC\Desktop\Projeler\cift.sayi.toplami\cift.sayi.toplami\bin\Debug\cift.sayi.toplami.exe
+C:\Users\BTC\Desktop\Projeler\cift.sayi.toplami\cift.sayi.toplami\bin\Debug\cift.sayi.toplami.pdb
+C:\Users\BTC\Desktop\Projeler\cift.sayi.toplami\cift.sayi.toplami\obj\Debug\cift.sayi.toplami.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\cift.sayi.toplami\cift.sayi.toplami\obj\Debug\cift.sayi.toplami.exe
+C:\Users\BTC\Desktop\Projeler\cift.sayi.toplami\cift.sayi.toplami\obj\Debug\cift.sayi.toplami.pdb

@@ -1,0 +1,12 @@
+C:\Users\BTC\Desktop\Projeler\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\BTC\Desktop\Projeler\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\BTC\Desktop\Projeler\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\BTC\Desktop\Projeler\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\BTC\Desktop\Projeler\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
+C:\Users\BTC\Desktop\Projeler\indirim.bulma\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\BTC\Desktop\Projeler\indirim.bulma\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\BTC\Desktop\Projeler\indirim.bulma\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\BTC\Desktop\Projeler\indirim.bulma\ConsoleApp11\obj\Debug\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\indirim.bulma\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\BTC\Desktop\Projeler\indirim.bulma\ConsoleApp11\obj\Debug\ConsoleApp11.pdb

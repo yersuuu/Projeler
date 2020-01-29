@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\boolean.ornek\boolean.ornek\bin\Debug\boolean.ornek.exe.config
+C:\Users\BTC\Desktop\Projeler\boolean.ornek\boolean.ornek\bin\Debug\boolean.ornek.exe
+C:\Users\BTC\Desktop\Projeler\boolean.ornek\boolean.ornek\bin\Debug\boolean.ornek.pdb
+C:\Users\BTC\Desktop\Projeler\boolean.ornek\boolean.ornek\obj\Debug\boolean.ornek.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\boolean.ornek\boolean.ornek\obj\Debug\boolean.ornek.exe
+C:\Users\BTC\Desktop\Projeler\boolean.ornek\boolean.ornek\obj\Debug\boolean.ornek.pdb

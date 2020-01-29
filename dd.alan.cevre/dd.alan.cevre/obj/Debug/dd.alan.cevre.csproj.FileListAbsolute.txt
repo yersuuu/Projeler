@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\dd.alan.cevre\dd.alan.cevre\bin\Debug\dd.alan.cevre.exe.config
+C:\Users\BTC\Desktop\Projeler\dd.alan.cevre\dd.alan.cevre\bin\Debug\dd.alan.cevre.exe
+C:\Users\BTC\Desktop\Projeler\dd.alan.cevre\dd.alan.cevre\bin\Debug\dd.alan.cevre.pdb
+C:\Users\BTC\Desktop\Projeler\dd.alan.cevre\dd.alan.cevre\obj\Debug\dd.alan.cevre.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\dd.alan.cevre\dd.alan.cevre\obj\Debug\dd.alan.cevre.exe
+C:\Users\BTC\Desktop\Projeler\dd.alan.cevre\dd.alan.cevre\obj\Debug\dd.alan.cevre.pdb

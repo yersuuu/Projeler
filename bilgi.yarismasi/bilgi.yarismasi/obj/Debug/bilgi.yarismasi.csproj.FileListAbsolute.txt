@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\bilgi.yarismasi\bilgi.yarismasi\bin\Debug\bilgi.yarismasi.exe.config
+C:\Users\BTC\Desktop\Projeler\bilgi.yarismasi\bilgi.yarismasi\bin\Debug\bilgi.yarismasi.exe
+C:\Users\BTC\Desktop\Projeler\bilgi.yarismasi\bilgi.yarismasi\bin\Debug\bilgi.yarismasi.pdb
+C:\Users\BTC\Desktop\Projeler\bilgi.yarismasi\bilgi.yarismasi\obj\Debug\bilgi.yarismasi.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\bilgi.yarismasi\bilgi.yarismasi\obj\Debug\bilgi.yarismasi.exe
+C:\Users\BTC\Desktop\Projeler\bilgi.yarismasi\bilgi.yarismasi\obj\Debug\bilgi.yarismasi.pdb

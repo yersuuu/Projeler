@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\adsoyad\adsoyad\bin\Debug\adsoyad.exe.config
+C:\Users\BTC\Desktop\Projeler\adsoyad\adsoyad\bin\Debug\adsoyad.exe
+C:\Users\BTC\Desktop\Projeler\adsoyad\adsoyad\bin\Debug\adsoyad.pdb
+C:\Users\BTC\Desktop\Projeler\adsoyad\adsoyad\obj\Debug\adsoyad.exe
+C:\Users\BTC\Desktop\Projeler\adsoyad\adsoyad\obj\Debug\adsoyad.pdb
+C:\Users\BTC\Desktop\Projeler\adsoyad\adsoyad\obj\Debug\adsoyad.csprojAssemblyReference.cache

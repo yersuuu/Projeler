@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\foreach.dizilerde\foreach.dizilerde\bin\Debug\@foreach.dizilerde.exe.config
+C:\Users\BTC\Desktop\Projeler\foreach.dizilerde\foreach.dizilerde\bin\Debug\@foreach.dizilerde.exe
+C:\Users\BTC\Desktop\Projeler\foreach.dizilerde\foreach.dizilerde\bin\Debug\@foreach.dizilerde.pdb
+C:\Users\BTC\Desktop\Projeler\foreach.dizilerde\foreach.dizilerde\obj\Debug\foreach.dizilerde.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\foreach.dizilerde\foreach.dizilerde\obj\Debug\@foreach.dizilerde.exe
+C:\Users\BTC\Desktop\Projeler\foreach.dizilerde\foreach.dizilerde\obj\Debug\@foreach.dizilerde.pdb

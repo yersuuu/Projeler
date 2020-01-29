@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\rastgelesayi.toplami\rastgelesayi.toplami\bin\Debug\rastgelesayi.toplami.exe.config
+C:\Users\BTC\Desktop\Projeler\rastgelesayi.toplami\rastgelesayi.toplami\bin\Debug\rastgelesayi.toplami.exe
+C:\Users\BTC\Desktop\Projeler\rastgelesayi.toplami\rastgelesayi.toplami\bin\Debug\rastgelesayi.toplami.pdb
+C:\Users\BTC\Desktop\Projeler\rastgelesayi.toplami\rastgelesayi.toplami\obj\Debug\rastgelesayi.toplami.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\rastgelesayi.toplami\rastgelesayi.toplami\obj\Debug\rastgelesayi.toplami.exe
+C:\Users\BTC\Desktop\Projeler\rastgelesayi.toplami\rastgelesayi.toplami\obj\Debug\rastgelesayi.toplami.pdb

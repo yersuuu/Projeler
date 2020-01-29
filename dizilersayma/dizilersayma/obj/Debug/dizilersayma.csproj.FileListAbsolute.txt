@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\dizilersayma\dizilersayma\bin\Debug\dizilersayma.exe.config
+C:\Users\BTC\Desktop\Projeler\dizilersayma\dizilersayma\bin\Debug\dizilersayma.exe
+C:\Users\BTC\Desktop\Projeler\dizilersayma\dizilersayma\bin\Debug\dizilersayma.pdb
+C:\Users\BTC\Desktop\Projeler\dizilersayma\dizilersayma\obj\Debug\dizilersayma.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\dizilersayma\dizilersayma\obj\Debug\dizilersayma.exe
+C:\Users\BTC\Desktop\Projeler\dizilersayma\dizilersayma\obj\Debug\dizilersayma.pdb

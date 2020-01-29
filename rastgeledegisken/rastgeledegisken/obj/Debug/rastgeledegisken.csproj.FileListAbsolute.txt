@@ -1,0 +1,6 @@
+C:\Users\BTC\source\repos\rastgeledegisken\rastgeledegisken\bin\Debug\rastgeledegisken.exe.config
+C:\Users\BTC\source\repos\rastgeledegisken\rastgeledegisken\bin\Debug\rastgeledegisken.exe
+C:\Users\BTC\source\repos\rastgeledegisken\rastgeledegisken\bin\Debug\rastgeledegisken.pdb
+C:\Users\BTC\source\repos\rastgeledegisken\rastgeledegisken\obj\Debug\rastgeledegisken.csprojAssemblyReference.cache
+C:\Users\BTC\source\repos\rastgeledegisken\rastgeledegisken\obj\Debug\rastgeledegisken.exe
+C:\Users\BTC\source\repos\rastgeledegisken\rastgeledegisken\obj\Debug\rastgeledegisken.pdb

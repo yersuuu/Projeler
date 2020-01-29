@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\BTC\Desktop\Projeler\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\BTC\Desktop\Projeler\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\BTC\Desktop\Projeler\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\BTC\Desktop\Projeler\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

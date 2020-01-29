@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\indirim.hesaplama\indirim.hesaplama\bin\Debug\indirim.hesaplama.exe.config
+C:\Users\BTC\Desktop\Projeler\indirim.hesaplama\indirim.hesaplama\bin\Debug\indirim.hesaplama.exe
+C:\Users\BTC\Desktop\Projeler\indirim.hesaplama\indirim.hesaplama\bin\Debug\indirim.hesaplama.pdb
+C:\Users\BTC\Desktop\Projeler\indirim.hesaplama\indirim.hesaplama\obj\Debug\indirim.hesaplama.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\indirim.hesaplama\indirim.hesaplama\obj\Debug\indirim.hesaplama.exe
+C:\Users\BTC\Desktop\Projeler\indirim.hesaplama\indirim.hesaplama\obj\Debug\indirim.hesaplama.pdb

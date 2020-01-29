@@ -1,0 +1,12 @@
+C:\Users\BTC\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\BTC\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\BTC\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\BTC\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\BTC\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\BTC\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\BTC\Desktop\Projeler\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\BTC\Desktop\Projeler\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\BTC\Desktop\Projeler\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\BTC\Desktop\Projeler\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\BTC\Desktop\Projeler\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

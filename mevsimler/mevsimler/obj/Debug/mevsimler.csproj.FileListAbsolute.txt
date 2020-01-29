@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\mevsimler\mevsimler\bin\Debug\mevsimler.exe.config
+C:\Users\BTC\Desktop\Projeler\mevsimler\mevsimler\bin\Debug\mevsimler.exe
+C:\Users\BTC\Desktop\Projeler\mevsimler\mevsimler\bin\Debug\mevsimler.pdb
+C:\Users\BTC\Desktop\Projeler\mevsimler\mevsimler\obj\Debug\mevsimler.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\mevsimler\mevsimler\obj\Debug\mevsimler.exe
+C:\Users\BTC\Desktop\Projeler\mevsimler\mevsimler\obj\Debug\mevsimler.pdb

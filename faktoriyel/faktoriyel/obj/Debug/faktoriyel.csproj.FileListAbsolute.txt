@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\faktoriyel\faktoriyel\bin\Debug\faktoriyel.exe.config
+C:\Users\BTC\Desktop\Projeler\faktoriyel\faktoriyel\bin\Debug\faktoriyel.exe
+C:\Users\BTC\Desktop\Projeler\faktoriyel\faktoriyel\bin\Debug\faktoriyel.pdb
+C:\Users\BTC\Desktop\Projeler\faktoriyel\faktoriyel\obj\Debug\faktoriyel.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\faktoriyel\faktoriyel\obj\Debug\faktoriyel.exe
+C:\Users\BTC\Desktop\Projeler\faktoriyel\faktoriyel\obj\Debug\faktoriyel.pdb

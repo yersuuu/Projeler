@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\kullanici.adi.sifre.kontrolu\kullanici.adi.sifre.kontrolu\bin\Debug\kullanici.adi.sifre.kontrolu.exe.config
+C:\Users\BTC\Desktop\Projeler\kullanici.adi.sifre.kontrolu\kullanici.adi.sifre.kontrolu\bin\Debug\kullanici.adi.sifre.kontrolu.exe
+C:\Users\BTC\Desktop\Projeler\kullanici.adi.sifre.kontrolu\kullanici.adi.sifre.kontrolu\bin\Debug\kullanici.adi.sifre.kontrolu.pdb
+C:\Users\BTC\Desktop\Projeler\kullanici.adi.sifre.kontrolu\kullanici.adi.sifre.kontrolu\obj\Debug\kullanici.adi.sifre.kontrolu.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\kullanici.adi.sifre.kontrolu\kullanici.adi.sifre.kontrolu\obj\Debug\kullanici.adi.sifre.kontrolu.exe
+C:\Users\BTC\Desktop\Projeler\kullanici.adi.sifre.kontrolu\kullanici.adi.sifre.kontrolu\obj\Debug\kullanici.adi.sifre.kontrolu.pdb

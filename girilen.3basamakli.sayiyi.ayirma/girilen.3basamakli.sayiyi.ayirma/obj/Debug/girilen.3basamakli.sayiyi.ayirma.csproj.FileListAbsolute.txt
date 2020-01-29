@@ -1,0 +1,6 @@
+C:\Users\BTC\source\repos\girilen.3basamakli.sayiyi.ayirma\girilen.3basamakli.sayiyi.ayirma\bin\Debug\girilen.3basamakli.sayiyi.ayirma.exe.config
+C:\Users\BTC\source\repos\girilen.3basamakli.sayiyi.ayirma\girilen.3basamakli.sayiyi.ayirma\bin\Debug\girilen.3basamakli.sayiyi.ayirma.exe
+C:\Users\BTC\source\repos\girilen.3basamakli.sayiyi.ayirma\girilen.3basamakli.sayiyi.ayirma\bin\Debug\girilen.3basamakli.sayiyi.ayirma.pdb
+C:\Users\BTC\source\repos\girilen.3basamakli.sayiyi.ayirma\girilen.3basamakli.sayiyi.ayirma\obj\Debug\girilen.3basamakli.sayiyi.ayirma.csprojAssemblyReference.cache
+C:\Users\BTC\source\repos\girilen.3basamakli.sayiyi.ayirma\girilen.3basamakli.sayiyi.ayirma\obj\Debug\girilen.3basamakli.sayiyi.ayirma.exe
+C:\Users\BTC\source\repos\girilen.3basamakli.sayiyi.ayirma\girilen.3basamakli.sayiyi.ayirma\obj\Debug\girilen.3basamakli.sayiyi.ayirma.pdb

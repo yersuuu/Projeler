@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\nuramayi.ters.cevirme\nuramayi.ters.cevirme\bin\Debug\nuramayi.ters.cevirme.exe.config
+C:\Users\BTC\Desktop\Projeler\nuramayi.ters.cevirme\nuramayi.ters.cevirme\bin\Debug\nuramayi.ters.cevirme.exe
+C:\Users\BTC\Desktop\Projeler\nuramayi.ters.cevirme\nuramayi.ters.cevirme\bin\Debug\nuramayi.ters.cevirme.pdb
+C:\Users\BTC\Desktop\Projeler\nuramayi.ters.cevirme\nuramayi.ters.cevirme\obj\Debug\nuramayi.ters.cevirme.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\nuramayi.ters.cevirme\nuramayi.ters.cevirme\obj\Debug\nuramayi.ters.cevirme.exe
+C:\Users\BTC\Desktop\Projeler\nuramayi.ters.cevirme\nuramayi.ters.cevirme\obj\Debug\nuramayi.ters.cevirme.pdb

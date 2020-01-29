@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\kontrol\kontrol\bin\Debug\kontrol.exe.config
+C:\Users\BTC\Desktop\Projeler\kontrol\kontrol\bin\Debug\kontrol.exe
+C:\Users\BTC\Desktop\Projeler\kontrol\kontrol\bin\Debug\kontrol.pdb
+C:\Users\BTC\Desktop\Projeler\kontrol\kontrol\obj\Debug\kontrol.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\kontrol\kontrol\obj\Debug\kontrol.exe
+C:\Users\BTC\Desktop\Projeler\kontrol\kontrol\obj\Debug\kontrol.pdb

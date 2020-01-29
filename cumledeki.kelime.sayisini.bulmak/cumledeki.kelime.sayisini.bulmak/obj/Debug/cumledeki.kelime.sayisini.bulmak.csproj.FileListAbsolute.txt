@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\cumledeki.kelime.sayisini.bulmak\cumledeki.kelime.sayisini.bulmak\bin\Debug\cumledeki.kelime.sayisini.bulmak.exe.config
+C:\Users\BTC\Desktop\Projeler\cumledeki.kelime.sayisini.bulmak\cumledeki.kelime.sayisini.bulmak\bin\Debug\cumledeki.kelime.sayisini.bulmak.exe
+C:\Users\BTC\Desktop\Projeler\cumledeki.kelime.sayisini.bulmak\cumledeki.kelime.sayisini.bulmak\bin\Debug\cumledeki.kelime.sayisini.bulmak.pdb
+C:\Users\BTC\Desktop\Projeler\cumledeki.kelime.sayisini.bulmak\cumledeki.kelime.sayisini.bulmak\obj\Debug\cumledeki.kelime.sayisini.bulmak.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\cumledeki.kelime.sayisini.bulmak\cumledeki.kelime.sayisini.bulmak\obj\Debug\cumledeki.kelime.sayisini.bulmak.exe
+C:\Users\BTC\Desktop\Projeler\cumledeki.kelime.sayisini.bulmak\cumledeki.kelime.sayisini.bulmak\obj\Debug\cumledeki.kelime.sayisini.bulmak.pdb

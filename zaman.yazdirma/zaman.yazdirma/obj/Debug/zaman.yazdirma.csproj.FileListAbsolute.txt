@@ -1,0 +1,6 @@
+C:\Users\BTC\Desktop\Projeler\zaman.yazdirma\zaman.yazdirma\bin\Debug\zaman.yazdirma.exe.config
+C:\Users\BTC\Desktop\Projeler\zaman.yazdirma\zaman.yazdirma\bin\Debug\zaman.yazdirma.exe
+C:\Users\BTC\Desktop\Projeler\zaman.yazdirma\zaman.yazdirma\bin\Debug\zaman.yazdirma.pdb
+C:\Users\BTC\Desktop\Projeler\zaman.yazdirma\zaman.yazdirma\obj\Debug\zaman.yazdirma.csprojAssemblyReference.cache
+C:\Users\BTC\Desktop\Projeler\zaman.yazdirma\zaman.yazdirma\obj\Debug\zaman.yazdirma.exe
+C:\Users\BTC\Desktop\Projeler\zaman.yazdirma\zaman.yazdirma\obj\Debug\zaman.yazdirma.pdb
